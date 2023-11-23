@@ -1,6 +1,6 @@
 const asdev_datetime = {
 	element: function () {
-		return document.querySelector( '.penci-data-time-format > span' )
+		return document.querySelector( '.asdev-datetime > span' )
 	},
 	defaultLang: function () {
 		return 'ru-RU'
